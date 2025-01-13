@@ -9,7 +9,8 @@ For this, I used:
 - Windows Forms to design an intuitive and organized interface for data management;
 - Automated calculations for expenses and revenue to provide clear insights into the business's financial health;
 - Implementation of features to track service schedules, helping ensure punctuality and customer satisfaction.
-- The system includes key features like expense tracking, detailed customer records, service reminders, and financial summaries, designed to support decision-making and improve operational efficiency.
+
+The system includes key features like expense tracking, detailed customer records, service reminders, and financial summaries, designed to support decision-making and improve operational efficiency.
 
 Development:
 Belli, Vinicius
@@ -25,7 +26,8 @@ Para isso, eu utilizei:
 - Windows Forms para criar uma interface intuitiva e organizada para o gerenciamento de dados;
 - Cálculos automatizados de despesas e receitas para oferecer insights claros sobre a saúde financeira do negócio;
 - Implementação de funcionalidades para acompanhar agendamentos de serviços, garantindo pontualidade e satisfação dos clientes.
-- O sistema inclui recursos principais como controle de despesas, registros detalhados de clientes, lembretes de serviços e resumos financeiros, projetados para auxiliar na tomada de decisões e melhorar a eficiência operacional.
+
+O sistema inclui recursos principais como controle de despesas, registros detalhados de clientes, lembretes de serviços e resumos financeiros, projetados para auxiliar na tomada de decisões e melhorar a eficiência operacional.
 
 Desenvolvimento:
 Vinicius Belli

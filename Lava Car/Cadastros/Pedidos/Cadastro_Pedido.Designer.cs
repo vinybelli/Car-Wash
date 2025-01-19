@@ -68,7 +68,7 @@
             this.button4.Location = new System.Drawing.Point(7, 385);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(123, 31);
-            this.button4.TabIndex = 12;
+            this.button4.TabIndex = 10;
             this.button4.Text = "Voltar (Esc)";
             this.button4.UseVisualStyleBackColor = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
@@ -85,7 +85,7 @@
             this.button6.Location = new System.Drawing.Point(423, 385);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(123, 31);
-            this.button6.TabIndex = 14;
+            this.button6.TabIndex = 12;
             this.button6.Text = "Salvar (F2)";
             this.button6.UseVisualStyleBackColor = false;
             this.button6.Click += new System.EventHandler(this.button6_Click);
@@ -108,7 +108,7 @@
             this.textBox6.MaxLength = 150;
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(210, 22);
-            this.textBox6.TabIndex = 5;
+            this.textBox6.TabIndex = 4;
             // 
             // label9
             // 
@@ -153,7 +153,7 @@
             this.button1.Location = new System.Drawing.Point(499, 24);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(32, 23);
-            this.button1.TabIndex = 3;
+            this.button1.TabIndex = 2;
             this.button1.Text = "[+]";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
@@ -164,7 +164,7 @@
             this.maskedTextBox1.Mask = "LLL0A00";
             this.maskedTextBox1.Name = "maskedTextBox1";
             this.maskedTextBox1.Size = new System.Drawing.Size(101, 22);
-            this.maskedTextBox1.TabIndex = 6;
+            this.maskedTextBox1.TabIndex = 5;
             // 
             // comboBox2
             // 
@@ -182,7 +182,7 @@
             this.comboBox2.Location = new System.Drawing.Point(76, 52);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(417, 23);
-            this.comboBox2.TabIndex = 4;
+            this.comboBox2.TabIndex = 3;
             // 
             // comboBox1
             // 
@@ -191,7 +191,7 @@
             this.comboBox1.Location = new System.Drawing.Point(76, 24);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(417, 23);
-            this.comboBox1.TabIndex = 2;
+            this.comboBox1.TabIndex = 1;
             // 
             // label1
             // 
@@ -224,7 +224,7 @@
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(525, 81);
-            this.textBox1.TabIndex = 8;
+            this.textBox1.TabIndex = 7;
             // 
             // textBox3
             // 
@@ -233,7 +233,7 @@
             this.textBox3.MaxLength = 150;
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(101, 22);
-            this.textBox3.TabIndex = 7;
+            this.textBox3.TabIndex = 6;
             // 
             // label4
             // 
@@ -269,8 +269,8 @@
             this.button7.Location = new System.Drawing.Point(294, 385);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(123, 31);
-            this.button7.TabIndex = 13;
-            this.button7.Text = "Excluir (Del)";
+            this.button7.TabIndex = 11;
+            this.button7.Text = "Excluir";
             this.button7.UseVisualStyleBackColor = false;
             this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
@@ -323,7 +323,7 @@
             this.comboBox3.Location = new System.Drawing.Point(88, 52);
             this.comboBox3.Name = "comboBox3";
             this.comboBox3.Size = new System.Drawing.Size(77, 23);
-            this.comboBox3.TabIndex = 11;
+            this.comboBox3.TabIndex = 9;
             // 
             // comboBox4
             // 
@@ -335,11 +335,13 @@
             "Débito",
             "Dinheiro",
             "Cheque",
-            "Nota Fiscal"});
+            "Nota Fiscal",
+            "Troca de Serviços"});
             this.comboBox4.Location = new System.Drawing.Point(88, 23);
             this.comboBox4.Name = "comboBox4";
             this.comboBox4.Size = new System.Drawing.Size(405, 23);
-            this.comboBox4.TabIndex = 10;
+            this.comboBox4.TabIndex = 8;
+            this.comboBox4.SelectedIndexChanged += new System.EventHandler(this.comboBox4_SelectedIndexChanged);
             // 
             // label5
             // 

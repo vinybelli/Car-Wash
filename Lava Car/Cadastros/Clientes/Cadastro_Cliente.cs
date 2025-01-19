@@ -85,11 +85,6 @@ namespace Lava_Car.Cadastros.Clientes
             {
                 Salvar();
             }
-
-            if (e.KeyValue == 46)
-            {
-                DeletarCliente();
-            }
         }
 
         private void button6_Click(object sender, System.EventArgs e)

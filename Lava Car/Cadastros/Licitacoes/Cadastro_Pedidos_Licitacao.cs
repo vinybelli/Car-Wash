@@ -172,11 +172,6 @@ namespace Lava_Car.Cadastros.Licitacoes
             {
                 Salvar();
             }
-
-            if (e.KeyValue == 46)
-            {
-                DeletarPedidoLicitacao();
-            }
         }
 
         private void Cadastro_Pedidos_Licitacao_KeyPress(object sender, KeyPressEventArgs e)

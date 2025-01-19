@@ -539,7 +539,7 @@ namespace Lava_Car
 
         private void button9_Click(object sender, EventArgs e)
         {
-            Funcoes.GerarPlanilhaExcel(dataGridView5, "Agendamentos");
+            Funcoes.GerarPlanilhaExcel(dataGridView1, "Agendamentos");
         }
 
         private void textBox1_KeyDown(object sender, KeyEventArgs e)

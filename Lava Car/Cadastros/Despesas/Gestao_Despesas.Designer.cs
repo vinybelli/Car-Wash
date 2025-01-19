@@ -128,7 +128,7 @@
             this.dateTimePicker4.Location = new System.Drawing.Point(185, 22);
             this.dateTimePicker4.Name = "dateTimePicker4";
             this.dateTimePicker4.Size = new System.Drawing.Size(107, 23);
-            this.dateTimePicker4.TabIndex = 3;
+            this.dateTimePicker4.TabIndex = 2;
             this.dateTimePicker4.ValueChanged += new System.EventHandler(this.dateTimePicker4_ValueChanged);
             // 
             // dateTimePicker3
@@ -138,7 +138,7 @@
             this.dateTimePicker3.Location = new System.Drawing.Point(36, 22);
             this.dateTimePicker3.Name = "dateTimePicker3";
             this.dateTimePicker3.Size = new System.Drawing.Size(107, 23);
-            this.dateTimePicker3.TabIndex = 2;
+            this.dateTimePicker3.TabIndex = 1;
             this.dateTimePicker3.Value = new System.DateTime(2023, 5, 8, 8, 48, 0, 0);
             this.dateTimePicker3.ValueChanged += new System.EventHandler(this.dateTimePicker3_ValueChanged);
             // 
@@ -154,7 +154,7 @@
             this.button4.Location = new System.Drawing.Point(803, 17);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(123, 31);
-            this.button4.TabIndex = 5;
+            this.button4.TabIndex = 4;
             this.button4.Text = "Editar Despesa";
             this.button4.UseVisualStyleBackColor = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
@@ -181,7 +181,7 @@
             this.button6.Location = new System.Drawing.Point(932, 17);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(123, 31);
-            this.button6.TabIndex = 6;
+            this.button6.TabIndex = 5;
             this.button6.Text = "Nova Despesa";
             this.button6.UseVisualStyleBackColor = false;
             this.button6.Click += new System.EventHandler(this.button6_Click);
@@ -203,7 +203,7 @@
             this.dataGridView5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.dataGridView5.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(60)))), ((int)(((byte)(60)))));
+            this.dataGridView5.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(80)))), ((int)(((byte)(80)))), ((int)(((byte)(80)))));
             this.dataGridView5.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.Raised;
             this.dataGridView5.ClipboardCopyMode = System.Windows.Forms.DataGridViewClipboardCopyMode.EnableWithoutHeaderText;
             this.dataGridView5.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -225,6 +225,7 @@
             this.dataGridView5.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect;
             this.dataGridView5.Size = new System.Drawing.Size(1054, 387);
             this.dataGridView5.TabIndex = 312;
+            this.dataGridView5.TabStop = false;
             this.dataGridView5.CellMouseDoubleClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dataGridView5_CellMouseDoubleClick);
             // 
             // Column6
@@ -282,7 +283,7 @@
             this.button5.Location = new System.Drawing.Point(298, 22);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(76, 23);
-            this.button5.TabIndex = 4;
+            this.button5.TabIndex = 3;
             this.button5.Text = "Filtrar";
             this.button5.UseVisualStyleBackColor = false;
             this.button5.Click += new System.EventHandler(this.button5_Click);
@@ -299,7 +300,7 @@
             this.button1.Location = new System.Drawing.Point(3, 496);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(123, 31);
-            this.button1.TabIndex = 7;
+            this.button1.TabIndex = 6;
             this.button1.Text = "Voltar (Esc)";
             this.button1.UseVisualStyleBackColor = false;
             // 

@@ -49,3 +49,53 @@ C:\Users\Vinicius\source\repos\Lava Car\Lava Car\obj\Debug\Lava_Car.Cadastros.Li
 C:\Users\Vinicius\source\repos\Lava Car\Lava Car\obj\Debug\Lava_Car.Cadastros.Despesas.Gestao_Despesas.resources
 C:\Users\Vinicius\source\repos\Lava Car\Lava Car\obj\Debug\Lava_Car.Cadastros.Despesas.Cadastro_Despesas.resources
 C:\Users\Vinicius\source\repos\Lava Car\Lava Car\obj\Debug\Lava Car.csproj.ResolveComReference.cache
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\Lava Car.exe.config
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\Lava Car.exe
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\Lava Car.pdb
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\Npgsql.dll
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.Buffers.dll
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.Memory.dll
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.Text.Json.dll
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.Threading.Channels.dll
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.ValueTuple.dll
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\Npgsql.xml
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.Buffers.xml
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.Memory.xml
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.Text.Json.xml
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.Threading.Channels.xml
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\bin\Debug\System.ValueTuple.xml
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\obj\Debug\Lava Car.csproj.AssemblyReference.cache
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\obj\Debug\Lava Car.csproj.ResolveComReference.cache
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\obj\Debug\Lava_Car.Cadastros.Agenda.Cadastro_Agenda.resources
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\obj\Debug\Lava_Car.Cadastros.Clientes.Cadastro_Cliente.resources
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\obj\Debug\Lava_Car.Cadastros.Clientes.Gestao_Clientes.resources
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\obj\Debug\Lava_Car.Cadastros.Despesas.Cadastro_Despesas.resources
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\obj\Debug\Lava_Car.Cadastros.Despesas.Gestao_Despesas.resources
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\obj\Debug\Lava_Car.Cadastros.Licitacoes.Cadastro_Pedidos_Licitacao.resources
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\obj\Debug\Lava_Car.Cadastros.Licitacoes.Gestao_Licitacoes.resources
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\obj\Debug\Lava_Car.Sistema_Lava_Car.resources
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\obj\Debug\Lava_Car.Cadastros.Pedidos.Cadastro_Pedido.resources
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\obj\Debug\Lava_Car.Properties.Resources.resources
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\obj\Debug\Lava Car.csproj.GenerateResource.cache
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\obj\Debug\Lava Car.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\obj\Debug\Lava Car.csproj.Up2Date
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\obj\Debug\Lava Car.exe
+C:\Users\Vinicius\source\repos\vinybelli\Car-Wash\Lava Car\obj\Debug\Lava Car.pdb

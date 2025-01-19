@@ -81,7 +81,7 @@
             this.textBox6.MaxLength = 150;
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(210, 22);
-            this.textBox6.TabIndex = 359;
+            this.textBox6.TabIndex = 4;
             // 
             // label9
             // 
@@ -101,7 +101,7 @@
             this.dateTimePicker2.Location = new System.Drawing.Point(76, 134);
             this.dateTimePicker2.Name = "dateTimePicker2";
             this.dateTimePicker2.Size = new System.Drawing.Size(66, 22);
-            this.dateTimePicker2.TabIndex = 7;
+            this.dateTimePicker2.TabIndex = 6;
             // 
             // dateTimePicker1
             // 
@@ -110,7 +110,7 @@
             this.dateTimePicker1.Location = new System.Drawing.Point(76, 107);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(103, 22);
-            this.dateTimePicker1.TabIndex = 6;
+            this.dateTimePicker1.TabIndex = 5;
             // 
             // button1
             // 
@@ -120,7 +120,7 @@
             this.button1.Location = new System.Drawing.Point(499, 24);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(32, 23);
-            this.button1.TabIndex = 3;
+            this.button1.TabIndex = 2;
             this.button1.Text = "[+]";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
@@ -139,7 +139,7 @@
             this.comboBox2.Location = new System.Drawing.Point(76, 52);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(417, 23);
-            this.comboBox2.TabIndex = 5;
+            this.comboBox2.TabIndex = 3;
             // 
             // comboBox1
             // 
@@ -148,7 +148,7 @@
             this.comboBox1.Location = new System.Drawing.Point(76, 24);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(417, 23);
-            this.comboBox1.TabIndex = 2;
+            this.comboBox1.TabIndex = 1;
             // 
             // label1
             // 
@@ -181,7 +181,7 @@
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(528, 81);
-            this.textBox1.TabIndex = 8;
+            this.textBox1.TabIndex = 7;
             // 
             // label5
             // 
@@ -228,8 +228,8 @@
             this.button7.Location = new System.Drawing.Point(294, 281);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(123, 31);
-            this.button7.TabIndex = 10;
-            this.button7.Text = "Excluir (Del)";
+            this.button7.TabIndex = 9;
+            this.button7.Text = "Excluir";
             this.button7.UseVisualStyleBackColor = false;
             this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
@@ -269,7 +269,7 @@
             this.button4.Location = new System.Drawing.Point(7, 281);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(123, 31);
-            this.button4.TabIndex = 9;
+            this.button4.TabIndex = 8;
             this.button4.Text = "Voltar (Esc)";
             this.button4.UseVisualStyleBackColor = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
@@ -286,7 +286,7 @@
             this.button6.Location = new System.Drawing.Point(423, 281);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(123, 31);
-            this.button6.TabIndex = 11;
+            this.button6.TabIndex = 10;
             this.button6.Text = "Salvar (F2)";
             this.button6.UseVisualStyleBackColor = false;
             this.button6.Click += new System.EventHandler(this.button6_Click);

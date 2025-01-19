@@ -71,7 +71,7 @@
             this.dateTimePicker1.Location = new System.Drawing.Point(76, 27);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(101, 22);
-            this.dateTimePicker1.TabIndex = 2;
+            this.dateTimePicker1.TabIndex = 1;
             // 
             // textBox2
             // 
@@ -80,7 +80,7 @@
             this.textBox2.MaxLength = 150;
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(455, 22);
-            this.textBox2.TabIndex = 3;
+            this.textBox2.TabIndex = 2;
             // 
             // label2
             // 
@@ -124,7 +124,7 @@
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(525, 81);
-            this.textBox1.TabIndex = 5;
+            this.textBox1.TabIndex = 4;
             // 
             // textBox3
             // 
@@ -133,7 +133,7 @@
             this.textBox3.MaxLength = 150;
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(101, 22);
-            this.textBox3.TabIndex = 4;
+            this.textBox3.TabIndex = 3;
             // 
             // label4
             // 
@@ -158,8 +158,8 @@
             this.button7.Location = new System.Drawing.Point(291, 235);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(123, 31);
-            this.button7.TabIndex = 7;
-            this.button7.Text = "Excluir (Del)";
+            this.button7.TabIndex = 6;
+            this.button7.Text = "Excluir";
             this.button7.UseVisualStyleBackColor = false;
             this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
@@ -199,7 +199,7 @@
             this.button4.Location = new System.Drawing.Point(4, 235);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(123, 31);
-            this.button4.TabIndex = 6;
+            this.button4.TabIndex = 5;
             this.button4.Text = "Voltar (Esc)";
             this.button4.UseVisualStyleBackColor = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
@@ -216,7 +216,7 @@
             this.button6.Location = new System.Drawing.Point(420, 235);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(123, 31);
-            this.button6.TabIndex = 8;
+            this.button6.TabIndex = 7;
             this.button6.Text = "Salvar (F2)";
             this.button6.UseVisualStyleBackColor = false;
             this.button6.Click += new System.EventHandler(this.button6_Click);

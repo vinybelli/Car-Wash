@@ -311,11 +311,6 @@ namespace Lava_Car.Cadastros.Agenda
             {
                 Salvar();
             }
-
-            if(e.KeyValue == 46)
-            {
-                DeletarAgendamento();
-            }
         }
     }
 }

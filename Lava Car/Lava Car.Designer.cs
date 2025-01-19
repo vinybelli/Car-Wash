@@ -105,7 +105,7 @@
             this.Menu_Cadastro.Image = ((System.Drawing.Image)(resources.GetObject("Menu_Cadastro.Image")));
             this.Menu_Cadastro.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.Menu_Cadastro.Name = "Menu_Cadastro";
-            this.Menu_Cadastro.Size = new System.Drawing.Size(74, 52);
+            this.Menu_Cadastro.Size = new System.Drawing.Size(119, 52);
             this.Menu_Cadastro.Text = "Clientes";
             this.Menu_Cadastro.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.Menu_Cadastro.Click += new System.EventHandler(this.Menu_Cadastro_Click);
@@ -122,7 +122,7 @@
             this.menuStrip2.Location = new System.Drawing.Point(0, 0);
             this.menuStrip2.Name = "menuStrip2";
             this.menuStrip2.Padding = new System.Windows.Forms.Padding(0, 12, 0, 2);
-            this.menuStrip2.Size = new System.Drawing.Size(75, 772);
+            this.menuStrip2.Size = new System.Drawing.Size(120, 772);
             this.menuStrip2.TabIndex = 5;
             this.menuStrip2.Text = "menuStrip2";
             // 
@@ -134,7 +134,7 @@
             this.licitacoesToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.licitacoesToolStripMenuItem.Name = "licitacoesToolStripMenuItem";
             this.licitacoesToolStripMenuItem.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.licitacoesToolStripMenuItem.Size = new System.Drawing.Size(74, 52);
+            this.licitacoesToolStripMenuItem.Size = new System.Drawing.Size(119, 52);
             this.licitacoesToolStripMenuItem.Text = "Licitações";
             this.licitacoesToolStripMenuItem.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.licitacoesToolStripMenuItem.Click += new System.EventHandler(this.licitacoesToolStripMenuItem_Click);
@@ -146,7 +146,7 @@
             this.despesasToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("despesasToolStripMenuItem.Image")));
             this.despesasToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.despesasToolStripMenuItem.Name = "despesasToolStripMenuItem";
-            this.despesasToolStripMenuItem.Size = new System.Drawing.Size(74, 53);
+            this.despesasToolStripMenuItem.Size = new System.Drawing.Size(119, 53);
             this.despesasToolStripMenuItem.Text = "Despesas";
             this.despesasToolStripMenuItem.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.despesasToolStripMenuItem.Click += new System.EventHandler(this.despesasToolStripMenuItem_Click);
@@ -158,7 +158,7 @@
             this.dataGridView5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.dataGridView5.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(60)))), ((int)(((byte)(60)))));
+            this.dataGridView5.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(80)))), ((int)(((byte)(80)))), ((int)(((byte)(80)))));
             this.dataGridView5.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.Raised;
             this.dataGridView5.ClipboardCopyMode = System.Windows.Forms.DataGridViewClipboardCopyMode.EnableWithoutHeaderText;
             this.dataGridView5.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -183,8 +183,9 @@
             dataGridViewCellStyle6.ForeColor = System.Drawing.Color.Black;
             this.dataGridView5.RowsDefaultCellStyle = dataGridViewCellStyle6;
             this.dataGridView5.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect;
-            this.dataGridView5.Size = new System.Drawing.Size(1238, 362);
+            this.dataGridView5.Size = new System.Drawing.Size(1238, 489);
             this.dataGridView5.TabIndex = 312;
+            this.dataGridView5.TabStop = false;
             this.dataGridView5.CellMouseDoubleClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dataGridView5_CellMouseDoubleClick);
             // 
             // Column2
@@ -300,7 +301,7 @@
             this.button6.Location = new System.Drawing.Point(1116, 23);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(123, 31);
-            this.button6.TabIndex = 775;
+            this.button6.TabIndex = 8;
             this.button6.Text = "Novo Pedido";
             this.button6.UseVisualStyleBackColor = false;
             this.button6.Click += new System.EventHandler(this.button6_Click);
@@ -317,7 +318,7 @@
             this.button4.Location = new System.Drawing.Point(987, 23);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(123, 31);
-            this.button4.TabIndex = 776;
+            this.button4.TabIndex = 7;
             this.button4.Text = "Editar Pedido";
             this.button4.UseVisualStyleBackColor = false;
             this.button4.Visible = false;
@@ -349,7 +350,7 @@
             this.groupBox1.ForeColor = System.Drawing.Color.White;
             this.groupBox1.Location = new System.Drawing.Point(77, 4);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(1245, 505);
+            this.groupBox1.Size = new System.Drawing.Size(1245, 632);
             this.groupBox1.TabIndex = 778;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Lista de Pedidos";
@@ -359,7 +360,7 @@
             this.textBox1.Location = new System.Drawing.Point(135, 23);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(438, 23);
-            this.textBox1.TabIndex = 785;
+            this.textBox1.TabIndex = 1;
             this.textBox1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox1_KeyDown);
             // 
             // label12
@@ -377,7 +378,7 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(105, 460);
+            this.label8.Location = new System.Drawing.Point(105, 587);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(16, 16);
             this.label8.TabIndex = 783;
@@ -388,7 +389,7 @@
             this.label9.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(6, 460);
+            this.label9.Location = new System.Drawing.Point(6, 587);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(102, 16);
             this.label9.TabIndex = 782;
@@ -399,7 +400,7 @@
             this.label7.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(163, 481);
+            this.label7.Location = new System.Drawing.Point(163, 608);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(59, 16);
             this.label7.TabIndex = 781;
@@ -410,7 +411,7 @@
             this.label6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(6, 481);
+            this.label6.Location = new System.Drawing.Point(6, 608);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(159, 16);
             this.label6.TabIndex = 780;
@@ -426,7 +427,7 @@
             this.comboBox1.Location = new System.Drawing.Point(450, 56);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(123, 24);
-            this.comboBox1.TabIndex = 779;
+            this.comboBox1.TabIndex = 4;
             // 
             // label2
             // 
@@ -444,7 +445,7 @@
             this.dateTimePicker2.Location = new System.Drawing.Point(187, 56);
             this.dateTimePicker2.Name = "dateTimePicker2";
             this.dateTimePicker2.Size = new System.Drawing.Size(107, 23);
-            this.dateTimePicker2.TabIndex = 777;
+            this.dateTimePicker2.TabIndex = 3;
             this.dateTimePicker2.ValueChanged += new System.EventHandler(this.dateTimePicker2_ValueChanged);
             // 
             // dateTimePicker1
@@ -454,7 +455,7 @@
             this.dateTimePicker1.Location = new System.Drawing.Point(39, 56);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(107, 23);
-            this.dateTimePicker1.TabIndex = 777;
+            this.dateTimePicker1.TabIndex = 2;
             this.dateTimePicker1.Value = new System.DateTime(2023, 5, 8, 8, 48, 0, 0);
             this.dateTimePicker1.ValueChanged += new System.EventHandler(this.dateTimePicker1_ValueChanged);
             // 
@@ -470,7 +471,7 @@
             this.button10.Location = new System.Drawing.Point(858, 23);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(123, 31);
-            this.button10.TabIndex = 775;
+            this.button10.TabIndex = 6;
             this.button10.Text = "Exportar Excel";
             this.button10.UseVisualStyleBackColor = false;
             this.button10.Visible = false;
@@ -507,7 +508,7 @@
             this.button3.Location = new System.Drawing.Point(579, 23);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(89, 24);
-            this.button3.TabIndex = 775;
+            this.button3.TabIndex = 5;
             this.button3.Text = "Filtrar";
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
@@ -533,9 +534,9 @@
             this.groupBox2.Controls.Add(this.button5);
             this.groupBox2.Font = new System.Drawing.Font("Montserrat", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox2.ForeColor = System.Drawing.Color.White;
-            this.groupBox2.Location = new System.Drawing.Point(77, 515);
+            this.groupBox2.Location = new System.Drawing.Point(77, 642);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(1245, 252);
+            this.groupBox2.Size = new System.Drawing.Size(1245, 125);
             this.groupBox2.TabIndex = 779;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Agenda";
@@ -544,7 +545,7 @@
             // 
             this.label10.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(243, 228);
+            this.label10.Location = new System.Drawing.Point(243, 101);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(16, 16);
             this.label10.TabIndex = 785;
@@ -554,7 +555,7 @@
             // 
             this.label11.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(6, 228);
+            this.label11.Location = new System.Drawing.Point(6, 101);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(240, 16);
             this.label11.TabIndex = 784;
@@ -567,7 +568,7 @@
             this.dateTimePicker4.Location = new System.Drawing.Point(187, 28);
             this.dateTimePicker4.Name = "dateTimePicker4";
             this.dateTimePicker4.Size = new System.Drawing.Size(107, 23);
-            this.dateTimePicker4.TabIndex = 779;
+            this.dateTimePicker4.TabIndex = 10;
             this.dateTimePicker4.ValueChanged += new System.EventHandler(this.dateTimePicker4_ValueChanged);
             // 
             // dateTimePicker3
@@ -577,7 +578,7 @@
             this.dateTimePicker3.Location = new System.Drawing.Point(39, 28);
             this.dateTimePicker3.Name = "dateTimePicker3";
             this.dateTimePicker3.Size = new System.Drawing.Size(107, 23);
-            this.dateTimePicker3.TabIndex = 780;
+            this.dateTimePicker3.TabIndex = 9;
             this.dateTimePicker3.Value = new System.DateTime(2023, 5, 8, 8, 48, 0, 0);
             this.dateTimePicker3.ValueChanged += new System.EventHandler(this.dateTimePicker3_ValueChanged);
             // 
@@ -593,7 +594,7 @@
             this.button8.Location = new System.Drawing.Point(729, 23);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(123, 31);
-            this.button8.TabIndex = 776;
+            this.button8.TabIndex = 13;
             this.button8.Text = "Lançar como Licitação";
             this.button8.UseVisualStyleBackColor = false;
             this.button8.Visible = false;
@@ -611,7 +612,7 @@
             this.button7.Location = new System.Drawing.Point(858, 23);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(123, 31);
-            this.button7.TabIndex = 776;
+            this.button7.TabIndex = 14;
             this.button7.Text = "Lançar como Pedido";
             this.button7.UseVisualStyleBackColor = false;
             this.button7.Visible = false;
@@ -629,7 +630,7 @@
             this.button1.Location = new System.Drawing.Point(987, 23);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(123, 31);
-            this.button1.TabIndex = 776;
+            this.button1.TabIndex = 15;
             this.button1.Text = "Editar";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Visible = false;
@@ -657,7 +658,7 @@
             this.button9.Location = new System.Drawing.Point(600, 23);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(123, 31);
-            this.button9.TabIndex = 775;
+            this.button9.TabIndex = 12;
             this.button9.Text = "Exportar Excel";
             this.button9.UseVisualStyleBackColor = false;
             this.button9.Visible = false;
@@ -675,7 +676,7 @@
             this.button2.Location = new System.Drawing.Point(1116, 23);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(123, 31);
-            this.button2.TabIndex = 775;
+            this.button2.TabIndex = 16;
             this.button2.Text = "Agendar";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
@@ -697,7 +698,7 @@
             this.dataGridView1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.dataGridView1.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(60)))), ((int)(((byte)(60)))));
+            this.dataGridView1.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(80)))), ((int)(((byte)(80)))), ((int)(((byte)(80)))));
             this.dataGridView1.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.Raised;
             this.dataGridView1.ClipboardCopyMode = System.Windows.Forms.DataGridViewClipboardCopyMode.EnableWithoutHeaderText;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -719,8 +720,9 @@
             dataGridViewCellStyle8.ForeColor = System.Drawing.Color.Black;
             this.dataGridView1.RowsDefaultCellStyle = dataGridViewCellStyle8;
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect;
-            this.dataGridView1.Size = new System.Drawing.Size(1238, 164);
+            this.dataGridView1.Size = new System.Drawing.Size(1238, 37);
             this.dataGridView1.TabIndex = 312;
+            this.dataGridView1.TabStop = false;
             this.dataGridView1.CellMouseDoubleClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dataGridView1_CellMouseDoubleClick);
             // 
             // Column11
@@ -791,7 +793,7 @@
             this.button5.Location = new System.Drawing.Point(307, 28);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(80, 23);
-            this.button5.TabIndex = 778;
+            this.button5.TabIndex = 11;
             this.button5.Text = "Filtrar";
             this.button5.UseVisualStyleBackColor = false;
             this.button5.Click += new System.EventHandler(this.button5_Click);

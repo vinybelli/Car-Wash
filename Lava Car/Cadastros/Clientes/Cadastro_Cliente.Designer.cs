@@ -62,7 +62,7 @@
             this.comboBox7.Location = new System.Drawing.Point(98, 23);
             this.comboBox7.Name = "comboBox7";
             this.comboBox7.Size = new System.Drawing.Size(158, 23);
-            this.comboBox7.TabIndex = 2;
+            this.comboBox7.TabIndex = 1;
             this.comboBox7.SelectedIndexChanged += new System.EventHandler(this.comboBox7_SelectedIndexChanged);
             // 
             // label1
@@ -83,7 +83,7 @@
             this.textBox2.MaxLength = 150;
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(358, 22);
-            this.textBox2.TabIndex = 4;
+            this.textBox2.TabIndex = 3;
             this.textBox2.Visible = false;
             // 
             // textBox1
@@ -93,7 +93,7 @@
             this.textBox1.MaxLength = 150;
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(358, 22);
-            this.textBox1.TabIndex = 3;
+            this.textBox1.TabIndex = 2;
             // 
             // label3
             // 
@@ -160,7 +160,7 @@
             this.checkBox1.Location = new System.Drawing.Point(98, 108);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(68, 19);
-            this.checkBox1.TabIndex = 7;
+            this.checkBox1.TabIndex = 6;
             this.checkBox1.Text = "Celular";
             this.checkBox1.UseVisualStyleBackColor = true;
             this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
@@ -171,7 +171,7 @@
             this.maskedTextBox2.Mask = "000,000,000,000";
             this.maskedTextBox2.Name = "maskedTextBox2";
             this.maskedTextBox2.Size = new System.Drawing.Size(138, 22);
-            this.maskedTextBox2.TabIndex = 6;
+            this.maskedTextBox2.TabIndex = 5;
             // 
             // label5
             // 
@@ -190,7 +190,7 @@
             this.maskedTextBox3.Mask = "(00) 0000-0000";
             this.maskedTextBox3.Name = "maskedTextBox3";
             this.maskedTextBox3.Size = new System.Drawing.Size(159, 22);
-            this.maskedTextBox3.TabIndex = 8;
+            this.maskedTextBox3.TabIndex = 7;
             // 
             // maskedTextBox1
             // 
@@ -198,7 +198,7 @@
             this.maskedTextBox1.Mask = "000.000.000-00";
             this.maskedTextBox1.Name = "maskedTextBox1";
             this.maskedTextBox1.Size = new System.Drawing.Size(159, 22);
-            this.maskedTextBox1.TabIndex = 5;
+            this.maskedTextBox1.TabIndex = 4;
             // 
             // label6
             // 
@@ -235,8 +235,8 @@
             this.button7.Location = new System.Drawing.Point(693, 173);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(123, 31);
-            this.button7.TabIndex = 10;
-            this.button7.Text = "Excluir (Del)";
+            this.button7.TabIndex = 9;
+            this.button7.Text = "Excluir";
             this.button7.UseVisualStyleBackColor = false;
             this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
@@ -252,7 +252,7 @@
             this.button6.Location = new System.Drawing.Point(822, 173);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(123, 31);
-            this.button6.TabIndex = 11;
+            this.button6.TabIndex = 10;
             this.button6.Text = "Salvar (F2)";
             this.button6.UseVisualStyleBackColor = false;
             this.button6.Click += new System.EventHandler(this.button6_Click);
@@ -269,7 +269,7 @@
             this.button4.Location = new System.Drawing.Point(8, 173);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(123, 31);
-            this.button4.TabIndex = 9;
+            this.button4.TabIndex = 8;
             this.button4.Text = "Voltar (Esc)";
             this.button4.UseVisualStyleBackColor = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);

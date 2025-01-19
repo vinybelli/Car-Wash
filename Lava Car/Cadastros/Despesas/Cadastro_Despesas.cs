@@ -55,11 +55,6 @@ namespace Lava_Car.Cadastros.Despesas
             {
                 Salvar();
             }
-
-            if (e.KeyValue == 46)
-            {
-                DeletarDespesa();
-            }
         }
 
         private void button6_Click(object sender, EventArgs e)

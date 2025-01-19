@@ -104,7 +104,7 @@
             this.button10.Location = new System.Drawing.Point(674, 17);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(123, 31);
-            this.button10.TabIndex = 787;
+            this.button10.TabIndex = 3;
             this.button10.Text = "Exportar Excel";
             this.button10.UseVisualStyleBackColor = false;
             this.button10.Visible = false;
@@ -121,7 +121,7 @@
             this.button3.Location = new System.Drawing.Point(274, 24);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(118, 24);
-            this.button3.TabIndex = 3;
+            this.button3.TabIndex = 2;
             this.button3.Text = "Filtrar (Enter)";
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Visible = false;
@@ -131,7 +131,7 @@
             this.textBox1.Location = new System.Drawing.Point(49, 24);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(219, 23);
-            this.textBox1.TabIndex = 2;
+            this.textBox1.TabIndex = 1;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label1
@@ -204,7 +204,7 @@
             this.dataGridView5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.dataGridView5.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(60)))), ((int)(((byte)(60)))));
+            this.dataGridView5.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(80)))), ((int)(((byte)(80)))), ((int)(((byte)(80)))));
             this.dataGridView5.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.Raised;
             this.dataGridView5.ClipboardCopyMode = System.Windows.Forms.DataGridViewClipboardCopyMode.EnableWithoutHeaderText;
             this.dataGridView5.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -226,6 +226,7 @@
             this.dataGridView5.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect;
             this.dataGridView5.Size = new System.Drawing.Size(1054, 392);
             this.dataGridView5.TabIndex = 312;
+            this.dataGridView5.TabStop = false;
             this.dataGridView5.CellMouseDoubleClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dataGridView5_CellMouseDoubleClick);
             // 
             // Column6

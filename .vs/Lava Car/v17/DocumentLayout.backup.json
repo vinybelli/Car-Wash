@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vinicius\\source\\repos\\vinybelli\\Car-Wash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFC5169-B1E5-4B83-B7B0-E47F185D242D}|Lava Car\\Lava Car.csproj|c:\\users\\vinicius\\source\\repos\\vinybelli\\car-wash\\lava car\\cadastros\\despesas\\gestao_despesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EFC5169-B1E5-4B83-B7B0-E47F185D242D}|Lava Car\\Lava Car.csproj|solutionrelative:lava car\\cadastros\\despesas\\gestao_despesas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFC5169-B1E5-4B83-B7B0-E47F185D242D}|Lava Car\\Lava Car.csproj|c:\\users\\vinicius\\source\\repos\\vinybelli\\car-wash\\lava car\\cadastros\\clientes\\gestao_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFC5169-B1E5-4B83-B7B0-E47F185D242D}|Lava Car\\Lava Car.csproj|solutionrelative:lava car\\cadastros\\clientes\\gestao_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFC5169-B1E5-4B83-B7B0-E47F185D242D}|Lava Car\\Lava Car.csproj|c:\\users\\vinicius\\source\\repos\\vinybelli\\car-wash\\lava car\\cadastros\\clientes\\gestao_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EFC5169-B1E5-4B83-B7B0-E47F185D242D}|Lava Car\\Lava Car.csproj|solutionrelative:lava car\\cadastros\\clientes\\gestao_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFC5169-B1E5-4B83-B7B0-E47F185D242D}|Lava Car\\Lava Car.csproj|c:\\users\\vinicius\\source\\repos\\vinybelli\\car-wash\\lava car\\lava car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EFC5169-B1E5-4B83-B7B0-E47F185D242D}|Lava Car\\Lava Car.csproj|solutionrelative:lava car\\lava car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFC5169-B1E5-4B83-B7B0-E47F185D242D}|Lava Car\\Lava Car.csproj|c:\\users\\vinicius\\source\\repos\\vinybelli\\car-wash\\lava car\\lava car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFC5169-B1E5-4B83-B7B0-E47F185D242D}|Lava Car\\Lava Car.csproj|solutionrelative:lava car\\lava car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gestao_Despesas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\source\\repos\\vinybelli\\Car-Wash\\Lava Car\\Cadastros\\Despesas\\Gestao_Despesas.cs",
+              "RelativeDocumentMoniker": "Lava Car\\Cadastros\\Despesas\\Gestao_Despesas.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\source\\repos\\vinybelli\\Car-Wash\\Lava Car\\Cadastros\\Despesas\\Gestao_Despesas.cs [Design]",
+              "RelativeToolTip": "Lava Car\\Cadastros\\Despesas\\Gestao_Despesas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:46:09.639Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gestao_Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\source\\repos\\vinybelli\\Car-Wash\\Lava Car\\Cadastros\\Clientes\\Gestao_Clientes.cs",
+              "RelativeDocumentMoniker": "Lava Car\\Cadastros\\Clientes\\Gestao_Clientes.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\source\\repos\\vinybelli\\Car-Wash\\Lava Car\\Cadastros\\Clientes\\Gestao_Clientes.cs",
+              "RelativeToolTip": "Lava Car\\Cadastros\\Clientes\\Gestao_Clientes.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAiwLIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:46:07.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gestao_Clientes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\source\\repos\\vinybelli\\Car-Wash\\Lava Car\\Cadastros\\Clientes\\Gestao_Clientes.cs",
+              "RelativeDocumentMoniker": "Lava Car\\Cadastros\\Clientes\\Gestao_Clientes.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\source\\repos\\vinybelli\\Car-Wash\\Lava Car\\Cadastros\\Clientes\\Gestao_Clientes.cs [Design]",
+              "RelativeToolTip": "Lava Car\\Cadastros\\Clientes\\Gestao_Clientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:46:03.115Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lava Car.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\source\\repos\\vinybelli\\Car-Wash\\Lava Car\\Lava Car.cs",
+              "RelativeDocumentMoniker": "Lava Car\\Lava Car.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\source\\repos\\vinybelli\\Car-Wash\\Lava Car\\Lava Car.cs",
+              "RelativeToolTip": "Lava Car\\Lava Car.cs",
+              "ViewState": "AgIAAAUCAAAAAAAAAADwvxcCAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:43:33.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lava Car.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\source\\repos\\vinybelli\\Car-Wash\\Lava Car\\Lava Car.cs",
+              "RelativeDocumentMoniker": "Lava Car\\Lava Car.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\source\\repos\\vinybelli\\Car-Wash\\Lava Car\\Lava Car.cs [Design]",
+              "RelativeToolTip": "Lava Car\\Lava Car.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T20:43:57.552Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

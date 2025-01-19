@@ -81,11 +81,6 @@ namespace Lava_Car.Cadastros.Pedidos
             {
                 Salvar();
             }
-
-            if (e.KeyValue == 46)
-            {
-                DeletarPedido();
-            }
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -470,6 +465,14 @@ namespace Lava_Car.Cadastros.Pedidos
                 {
                     command.ExecuteNonQuery();
                 }
+            }
+        }
+
+        private void comboBox4_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (comboBox4.SelectedIndex == 7) 
+            { 
+                textBox3.Text = "0,00";
             }
         }
     }

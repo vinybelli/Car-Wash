@@ -467,13 +467,5 @@ namespace Lava_Car.Cadastros.Pedidos
                 }
             }
         }
-
-        private void comboBox4_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            if (comboBox4.SelectedIndex == 6) 
-            { 
-                textBox3.Text = "0,00";
-            }
-        }
     }
 }
